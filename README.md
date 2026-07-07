@@ -2,7 +2,7 @@
 Ultron is a modular Python security system that uses face recognition for authentication and local command execution post-login. The system is structured to simulate an intelligent assistant capable of facial login and controlled access to system features.
 
  Python Module Descriptions
-The core logic of Ultron2 is built in Python and is organized under the engine/ directory. Each Python module plays a specific role:
+The core logic of Ultron is built in Python and is organized under the engine/ directory. Each Python module plays a specific role:
 
 ### 🧠 main.py
 Acts as the central control script that integrates the authentication system and command features. It can be used to initiate the full functionality after model training and authentication are completed.
